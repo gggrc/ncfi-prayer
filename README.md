@@ -71,4 +71,5 @@ Berikut adalah dokumen proyek yang relevan:
 Jika Anda memiliki pertanyaan atau ingin berkontribusi, silakan hubungi:
 
 **Email_1:** 01082230015@student.uph.edu
+
 **Email_2:** 01082230042@student.uph.edu
